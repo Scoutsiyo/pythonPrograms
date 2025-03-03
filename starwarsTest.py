@@ -11,9 +11,10 @@ Mandalore.new_location("Mandalore")
 
 
 
+
 print(Imperial)
 print(Mandalore)
 print(Tie)
 
 print(Mandalore.attack(Imperial))
-
+print(Tie.attack(Imperial))
