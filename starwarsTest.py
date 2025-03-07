@@ -18,3 +18,4 @@ print(Tie)
 
 print(Mandalore.attack(Imperial))
 print(Tie.attack(Imperial))
+print(Imperial.attack(Mandalore))
